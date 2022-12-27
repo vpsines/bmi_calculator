@@ -1,5 +1,4 @@
 import 'package:bmi_calculator/constants/app_constants.dart';
-import 'package:bmi_calculator/constants/dimensions.dart';
 import 'package:bmi_calculator/widgets/left_bar_widget.dart';
 import 'package:bmi_calculator/widgets/right_bar_widget.dart';
 import 'package:flutter/material.dart';
